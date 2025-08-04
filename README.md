@@ -1,6 +1,6 @@
 # Portuguese Bank Marketing Prediction
 
-This project involves analyzing and modeling a real-world marketing dataset provided by a Portuguese bank. The objective is to predict whether a client will subscribe to a term deposit based on various personal, social, and campaign-related features.
+This project involves analyzing and modeling a real-world marketing dataset provided by a Portuguese bank. The objective is to predict whether a client will subscribe to a term deposit based on various personal, social and campaign-related features.
 
 
 ## Problem Statement
@@ -13,7 +13,7 @@ Develop a predictive model that helps the marketing team identify which customer
 - **Source**: UCI Machine Learning Repository (Used via PRCP-1000 project)
 - **File Used**: `bank-additional-full.csv`
 - **Records**: ~41,000
-- **Features**: Demographics, contact information, past campaign outcomes, and macroeconomic variables.
+- **Features**: Demographics, contact information, past campaign outcomes and macroeconomic variables.
 - **Target Variable**: `y` – whether the client subscribed to a term deposit (`yes` or `no`)
 
 📎 [Original Dataset Link](https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1000-ProtugeseBank.zip)
@@ -21,10 +21,10 @@ Develop a predictive model that helps the marketing team identify which customer
 
 ## 🔍 Key Steps Performed
 
-- Data cleaning, validation, and preprocessing
+- Data cleaning, validation and preprocessing
 - Feature engineering (binary features, encoding, scaling)
 - Exploratory Data Analysis (EDA) with visualizations
-- Model building: Logistic Regression, Random Forest, and more
+- Model building: Logistic Regression, Random Forest and more
 - Model evaluation: Accuracy, F1-score, ROC-AUC
 - Business insights and actionable recommendations for the marketing team
 
@@ -67,10 +67,4 @@ Develop a predictive model that helps the marketing team identify which customer
 **Dev Dharmendra Modi**  
 📧 devmodi0403@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/dev-modi7)
-
----
-
-## 📝 License
-
-This project is part of the PRCP-1000 capstone module and is intended for educational purposes.
 
