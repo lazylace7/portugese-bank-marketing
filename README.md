@@ -11,7 +11,7 @@ Develop a predictive model that helps the marketing team identify which customer
 ## Dataset Information
 
 - **Source**: UCI Machine Learning Repository (Used via PRCP-1000 project)
-- **File Used**: `bank-additional-full.csv`
+- **File Used**: `bank-full.csv`
 - **Records**: ~41,000
 - **Features**: Demographics, contact information, past campaign outcomes and macroeconomic variables.
 - **Target Variable**: `y` – whether the client subscribed to a term deposit (`yes` or `no`)
